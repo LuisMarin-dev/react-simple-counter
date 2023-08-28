@@ -9,6 +9,12 @@ body {
     /* border: solid red 1.5px; */
 }
 
+.main_container {
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
 .counter_container {
     width: 80%;
     height: 140px;

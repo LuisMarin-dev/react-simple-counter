@@ -20,21 +20,8 @@ const Home = () => {
 	// simpleCounter();
 	return (
 		<div className="text-center d-flex main_div">
-			<h1 className="text-center mt-3 mb-4">My React Simple Counter</h1>				
-			<SecondsCounter />			
-			{/* <div className="commentthebasictemplatecode">
-				 <p>
-				<img src={rigoImage} />
-				</p> 
-				<a href="#" className="btn btn-success">
-					If you see this green button... bootstrap is working...
-				</a>
-				<p>
-					Made by
-					<a href="http://www.4geeksacademy.com">4Geeks Academy</a>, with
-					love!!
-				</p> 
-			</div> */}
+			{/* <h1 className="text-center mt-3 mb-4">My React Simple Counter</h1>				 */}
+			{/* <SecondsCounter /> */}
 		</div>
 	);
 };
